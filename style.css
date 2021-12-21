@@ -1,0 +1,30 @@
+.alien
+{
+    height: 300px;
+    width: 300px;
+}
+body
+{
+    background-color: #E2E8DD;
+}
+.header_div
+{
+    background-color: white;
+    color: red;
+}
+.main_div button
+{
+    margin-top: 25px;
+}
+.copy_write_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: wheat;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
