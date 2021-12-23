@@ -5,7 +5,7 @@
 }
 body
 {
-    background-color: #E2E8DD;
+    background-color: #afd690;
 }
 .header_div
 {
@@ -27,4 +27,9 @@ body
     line-height: 3;
     text-align: center;
     text-shadow: 5px 5px 5px gray;
+}
+#image
+{
+    width: 500px;
+    height: 500px;
 }
